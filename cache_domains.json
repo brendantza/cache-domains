@@ -82,6 +82,11 @@
 			"description": "CDN for rockstar games",
 			"domain_files": ["rockstar.txt"]
 		},
+        {
+			"name": "sob",
+			"description": "CDN forShards of Brittania",
+			"domain_files": ["sob.txt"]
+		},
 		{
 			"name": "sony",
 			"description": "CDN for sony / playstation",
